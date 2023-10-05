@@ -1,4 +1,4 @@
-# Parcial Primer Corte Desarrollo Web 🚀
+# Parcial Segundo Corte Desarrollo Web 🚀
 
 
 Nombre completo estudiante :
