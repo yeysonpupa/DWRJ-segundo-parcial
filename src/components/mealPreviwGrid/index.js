@@ -1,7 +1,5 @@
 import React from 'react';
 
-import MealPreviw from '../mealPreview';
-
 import './index.css';
 
 const MealPreviwGrid = () => {
