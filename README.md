@@ -17,6 +17,13 @@ Estás trabajando en un proyecto para crear una página web dedicada a compartir
 
 **Detalles de receta:** Los usuarios deben poder seleccionar una receta y ver el detalle de esta en una pagina de detalles de receta
 
+el sitio se tiene que visualizar como en el siguiente video:
+
+
+
+https://github.com/jhonquiceno/DWRJ-segundo-parcial/assets/15352519/bdb0defd-de8a-443f-890e-57a37b4ff7d7
+
+
 
 **Entrega:**
 
